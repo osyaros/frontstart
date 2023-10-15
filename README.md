@@ -1,4 +1,5 @@
 <!-- PROJECT LOGO -->
+<a name="readme-top"></a>
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -47,7 +48,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## О проекте
-
+<a name="о-проекте"></a>
 
 TEXT HERE
 
