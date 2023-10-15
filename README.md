@@ -46,7 +46,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## О проекте
 
 
 TEXT HERE
@@ -55,7 +55,7 @@ TEXT HERE
 
 
 
-### Built With
+### Инструменты
 
 * [![Andr][Android.dev]][Android-url]<a>Android Studio</a>
 * [![YMK][YMK]][YMK-url]<a>Yandex Map Kit</a>
